@@ -8,7 +8,7 @@ using std::vector;
 using std::exception;
 #include <type_traits>
 using std::remove_reference;
-#include "laktype.hpp" // move laktype.hpp out of ./laktype or include ./laktype while compiling
+#include "laktype.hpp"
 
 #ifndef LAKTRIE_H
 #define LAKTRIE_H
